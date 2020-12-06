@@ -213,7 +213,6 @@ int main()
 
     //TESTING
     //GetModuleBaseAddress
-    //Resolve base address of pointer chain
     uintptr_t Health_Addr = PlayerStructure + 0xF8;
     int HealthValue = 0;
     ReadProcessMemory(HandleCreate, (BYTE*)Health_Addr, &HealthValue, sizeof(HealthValue), nullptr);
