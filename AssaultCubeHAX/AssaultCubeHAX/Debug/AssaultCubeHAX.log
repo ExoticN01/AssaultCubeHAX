@@ -1,0 +1,90 @@
+﻿  Aimbot.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(21,19): error C2653: 'Aimbot': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(23,47): error C2653: 'Options': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(23,35): error C2065: 'i_aimbot_key': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(23,77): error C2653: 'Options': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(23,61): error C2065: 'b_aimbot_active': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(23,101): error C2653: 'Options': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(23,90): error C2065: 'b_menu_open': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(25,31): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(30,30): error C2653: 'Options': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(30,17): error C2065: 'i_aimbot_mode': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(31,16): error C3861: 'get_closest_target_to_crosshair': identifier not found
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(33,16): error C3861: 'get_closest_target_to_position': identifier not found
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(38,3): error C2065: 'v3': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(38,6): error C2146: syntax error: missing ';' before identifier 'v3_player_head'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(38,6): error C2065: 'v3_player_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(38,23): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(39,3): error C2065: 'v3': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(39,6): error C2146: syntax error: missing ';' before identifier 'v3_enemy_head'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(39,6): error C2065: 'v3_enemy_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(39,22): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(41,3): error C2065: 'v3': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(41,6): error C2146: syntax error: missing ';' before identifier 'v3_delta'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(41,6): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(41,17): error C2065: 'v3_enemy_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(41,33): error C2065: 'v3_player_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(42,3): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(44,24): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(44,36): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(44,46): error C2661: 'atan2': no overloaded function takes 1 arguments
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(45,25): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(45,42): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(45,55): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(45,68): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(45,81): error C2065: 'v3_delta': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(45,92): error C2661: 'atan2': no overloaded function takes 1 arguments
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(47,3): error C2065: 'process': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(47,23): error C2062: type 'float' unexpected
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(48,3): error C2065: 'process': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(48,23): error C2062: type 'float' unexpected
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(54,45): error C2653: 'Aimbot': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(57,49): error C2653: 'Options': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(57,37): error C2065: 'f_aimbot_fov': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(59,21): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(62,25): error C2065: 'process': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(62,50): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(66,7): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(69,7): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(69,52): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(69,121): error C2653: 'Options': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(69,101): error C2065: 'b_aimbot_attack_team': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(72,3): error C2065: 'v3': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(72,6): error C2146: syntax error: missing ';' before identifier 'v3_entity_head'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(72,6): error C2065: 'v3_entity_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(72,23): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(73,3): error C2065: 'v2': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(73,6): error C2146: syntax error: missing ';' before identifier 'v2_entity_screen'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(73,6): error C2065: 'v2_entity_screen': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(73,25): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(73,52): error C2065: 'v3_entity_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(75,69): error C2065: 'v2_entity_screen': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(75,136): error C2065: 'v2_entity_screen': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(86,44): error C2653: 'Aimbot': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(91,21): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(94,25): error C2065: 'process': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(94,50): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(98,7): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(101,7): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(101,52): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(101,121): error C2653: 'Options': is not a class or namespace name
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(101,101): error C2065: 'b_aimbot_attack_team': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(104,3): error C2065: 'v3': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(104,6): error C2146: syntax error: missing ';' before identifier 'v3_entity_head'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(104,6): error C2065: 'v3_entity_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(104,23): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(105,3): error C2065: 'v3': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(105,6): error C2146: syntax error: missing ';' before identifier 'v3_player_head'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(105,6): error C2065: 'v3_player_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(105,23): error C2065: 'offsets': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(107,22): error C2065: 'v3_entity_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(107,49): error C2065: 'v3_player_head': undeclared identifier
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(118,7): error C2143: syntax error: missing ';' before '*'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(118,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(118,1): error C2365: 'Aimbot': redefinition; previous definition was 'function'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.h(6): message : see declaration of 'Aimbot'
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(118,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ExoticN01\Desktop\AssaultCubeHAX\AssaultCubeHAX\Aimbot.cpp(118,28): error C2061: syntax error: identifier 'Aimbot'
+  AssaultCubeHAX.cpp
+  Generating Code...
