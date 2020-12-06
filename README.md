@@ -3,5 +3,4 @@ Was my first cheat i made a long time ag.
 
 ## Descryption
 - Command System
-- Completely Functionnal
-
+- AntiBan Not working
