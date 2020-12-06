@@ -8,7 +8,6 @@
 #include "ConsoleColor.h"
 #include "Fonctions.h"
 #include "AntiBan.h"
-#include "Aimbot.h"
 
 using namespace std;
 
@@ -100,7 +99,6 @@ int main()
             cout << " speed <number>" << endl;
             cout << " kill" << endl;
             cout << " admin" << endl;
-            cout << " aimbot" << endl;
             cout << " rapidfire" << endl;
             cout << " " << endl;
         }
@@ -174,12 +172,6 @@ int main()
             int Dead = 1;
             uintptr_t InvAdress = PlayerStructure + Invisible_Offset;
             WriteProcessMemory(HandleCreate, (BYTE*)InvAdress, &Dead, sizeof(Dead), nullptr);
-        }
-        else if (input == "aimbot")
-        {
-            thread ESPInstance(Aimbot, HandleCreate);
-            ESPInstance.detach();
-            cout << "What Number Of Speed Do you Want?" << endl;
         }
         else if (input == "speed")
         {
