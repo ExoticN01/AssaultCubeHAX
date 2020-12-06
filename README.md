@@ -1,2 +1,7 @@
 # AssaultCubeHAX
-My first cheat for Assault Cube. It based on command.
+Was my first cheat i made a long time ag.
+
+##Descryption
+- Command System
+- Completely Functionnal
+
